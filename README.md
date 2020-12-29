@@ -1,0 +1,2 @@
+# Udemy-JavaScript-Moderno
+Esté es una guía de javascript del curso de Udemy 'Javascript Moderno Guía Definitiva' donde se toca algunos concepto del lenguaje tales como aprender a consumir distintas REST APIS con JSON y Fetch API Async/Await, Conceptos en ES6 (Templete Literals, arrow functions, generadores, iteradores, promises, async/await fetch api), programación orientada a objetos con classes ES6 y proptypes ES5
